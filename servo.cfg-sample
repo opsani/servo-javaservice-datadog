@@ -1,0 +1,3 @@
+# Account/app id
+OPTUNE_ACCOUNT=acme.com
+OPTUNE_APP_ID=my_app
